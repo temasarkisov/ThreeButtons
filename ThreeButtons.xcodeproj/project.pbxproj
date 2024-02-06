@@ -13,6 +13,7 @@
 		6E154DB32B70098D00338E88 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E154DB12B70098D00338E88 /* Main.storyboard */; };
 		6E154DB52B70099000338E88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E154DB42B70099000338E88 /* Assets.xcassets */; };
 		6E154DB82B70099000338E88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E154DB62B70099000338E88 /* LaunchScreen.storyboard */; };
+		6E154DC02B7219DF00338E88 /* ScaledButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E154DBF2B7219DE00338E88 /* ScaledButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6E154DB42B70099000338E88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E154DB72B70099000338E88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6E154DB92B70099000338E88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E154DBF2B7219DE00338E88 /* ScaledButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaledButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				6E154DAB2B70098D00338E88 /* AppDelegate.swift */,
 				6E154DAD2B70098D00338E88 /* SceneDelegate.swift */,
 				6E154DAF2B70098D00338E88 /* ViewController.swift */,
+				6E154DBF2B7219DE00338E88 /* ScaledButton.swift */,
 				6E154DB12B70098D00338E88 /* Main.storyboard */,
 				6E154DB42B70099000338E88 /* Assets.xcassets */,
 				6E154DB62B70099000338E88 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E154DB02B70098D00338E88 /* ViewController.swift in Sources */,
+				6E154DC02B7219DF00338E88 /* ScaledButton.swift in Sources */,
 				6E154DAC2B70098D00338E88 /* AppDelegate.swift in Sources */,
 				6E154DAE2B70098D00338E88 /* SceneDelegate.swift in Sources */,
 			);
